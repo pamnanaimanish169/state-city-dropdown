@@ -8,3 +8,5 @@ Email: manishpamnani169@gmail.com
 Generated Token : WkeknRP6kuo48I_MaYts7WoIqYXZO56iI3WWckPW2Go7bC70nciAhQbXm4ZUZx02IyE
 
 (P.S.: To get the data from the above URL you need to pass a Authorization URL in every API , focus on that)
+
+Tutorial to follow: https://www.youtube.com/watch?v=FHQ8ECCoSJ0&t=606s
